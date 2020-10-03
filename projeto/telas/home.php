@@ -31,7 +31,7 @@
             </li>
             <li class="has-subnav">
                 <a href="?p=parceiro">
-                <i class="fa fa-laptop fa-2x"></i>
+                    <i class="fa fa-laptop fa-2x"></i>
                     <span class="nav-text">
                         Novos Parceiros
                     </span>
