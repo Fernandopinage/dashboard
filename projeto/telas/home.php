@@ -21,19 +21,19 @@
 
             </li>
             <li class="has-subnav">
-                <a href="?p=funcionario">
+                <a href="?p=pedente">
                     <i class="fa fa-laptop fa-2x"></i>
                     <span class="nav-text">
-                        Cadastro Funcionarios
+                        Pedente
                     </span>
                 </a>
 
             </li>
             <li class="has-subnav">
                 <a href="?p=parceiro">
-                    <i class="fa fa-laptop fa-2x"></i>
+                <i class="fa fa-laptop fa-2x"></i>
                     <span class="nav-text">
-                        Cadastro Parceiros
+                        Novos Parceiros
                     </span>
                 </a>
 
@@ -120,8 +120,8 @@
 
 
         switch ($pagina) {
-            case 'funcionario':
-                include "funcionario.php";
+            case 'pedente':
+                include "pedente.php";
                 break;
             case 'parceiro':
                 include "parceiro.php";

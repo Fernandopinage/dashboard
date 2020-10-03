@@ -126,13 +126,13 @@ background-color:#5fa2db;
 }
 .conteudo{
 
-  
+  box-shadow: 0 0 1em#A9A9A9;
   margin: 50px 150px 50px 150px;
   padding: 50px;
-  background-color: #e2e2e2e1;
+  background-color: whitesmoke;
   height: 700px;
 }
 .area{
-  padding: 10px;
-  background-color: red;
+  padding: 20px;
+  background-color: #363636;
 }
