@@ -136,3 +136,14 @@ background-color:#5fa2db;
   padding: 20px;
   background-color: #363636;
 }
+fieldset {
+  background-color: #eeeeee;
+}
+
+legend {
+  background-color:#5fa2db;
+  padding: 5px 15px;
+}
+.legend{
+  color: #eeeeee;
+}
