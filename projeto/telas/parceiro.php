@@ -207,7 +207,7 @@
     </div>
 </div>
 <div class="form-group row">
-    <input class="btn btn-primary" type="submit" value='SALVAR'>
+    <input class="btn btn-primary"  type="submit" value='SALVAR'>
 
 </div>
 </form>
