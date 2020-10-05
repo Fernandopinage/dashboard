@@ -1,7 +1,7 @@
 <div class="form-group">
     <table class="table">
         <thead>
-            <tr>
+            <tr class="table-active">
                 <th scope="col">#</th>
                 <th scope="col">First</th>
                 <th scope="col">Last</th>
