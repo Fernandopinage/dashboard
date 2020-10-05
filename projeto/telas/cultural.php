@@ -68,10 +68,7 @@
                 font-variant:small-caps;
 
             }
-            select{
 
-                font-variant:small-caps;
-            }
             
 
         </style>
